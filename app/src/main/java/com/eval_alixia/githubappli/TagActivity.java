@@ -45,7 +45,7 @@ public class TagActivity extends AppCompatActivity {
     }
     public boolean onCreateOptionsMenu(Menu menu) {
         menu.add(0,25,0,"Voir tous les tags");
-        menu.add(0,26,0,"Acceuil");
+        menu.add(0,26,0,"Accueil");
         return super.onCreateOptionsMenu(menu);
     }
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {

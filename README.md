@@ -1,5 +1,5 @@
 # android
-Poc pour une application récupérant les releases d'un repo sur différent outil de versionning git
+Poc pour une application récupérant les releases d'un repo sur l'outil de versionning git, gitHub.
 ## fonctionnalité
 * Un formulaire simple permet de saisir un repo et un owner.
 * Aucune vérification si le repo et owner existe.
